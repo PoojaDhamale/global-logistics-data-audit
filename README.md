@@ -7,7 +7,7 @@ This project simulates a high-volume corporate data migration and database optim
 ---
 
 ## 📈 Executive Insights Dashboard
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](excel_dashboard.png)
 *Figure 1: Complete production-grade data operations canvas optimized with custom axis titles, structured grid tracking, and hidden gridlines.*
 
 ### Key Insights Tracked:
