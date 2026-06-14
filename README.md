@@ -8,7 +8,7 @@ This project simulates a high-volume corporate data-refresh migration. It ingest
 ---
 
 ## 📈 Executive Insights Dashboard
-![Dashboard Preview](excel_dashboard.png)
+![Dashboard Preview](dashboard_screenshot.png)
 *Figure 1: Complete production-grade data operations canvas optimized with hidden gridlines, custom axis titles, and structured grid tracking.*
 
 ### Metrics Captured:
