@@ -2,7 +2,7 @@
 **Tech Stack**: Microsoft Excel (Advanced Lookups, Power Query, Dynamic Pivot Architectures, Interactive Slicers), Python (Pandas)
 
 ## 🎯 Project Overview
-This project simulates a high-volume corporate data migration and database optimization cycle. It ingests a raw, unverified operational dataset containing **10,000 global transport rows** plagued by severe text formatting irregularities and deprecated inventory system keys. The developed workbook builds an automated Extract-Transform-Load (ETL) pipeline within Excel to cleanse transaction fields, re-map legacy inventory structures to a standardized modern product catalog, and isolate pipeline tracking exceptions via an interactive dashboard.
+This project simulates a high-volume corporate data migration and database optimization cycle. It ingests a raw, unverified operational dataset containing **10,000 global transport rows** plagued by severe text formatting irregularities and deprecated inventory system keys. The developed workbook cleanse transaction fields, re-map legacy inventory structures to a standardized modern product catalog, and isolate pipeline tracking exceptions via an interactive dashboard.
 
 ---
 
